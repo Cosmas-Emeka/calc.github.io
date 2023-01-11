@@ -24,7 +24,7 @@ html{
 .container{
     background-color: #000;
     border-radius: 20px;
-    width: 300px;
+    width: 250px;
     height: 500px;
     margin: 0 auto;
 }
@@ -35,7 +35,7 @@ html{
     background-color: var(--fx-display-color);
     border-radius: 0px 0px 10px 10px;
     height: 80px;
-    width: 250px;
+    width: 200px;
     font-size: 1.4rem;
     font-weight: bolder;
     text-align: right;
@@ -89,7 +89,7 @@ html{
     box-shadow: inset 0px 0px 10px 10px var(--numbers-shadow-color);
 }
 .lg{
-    width: 120px;
+    width: 95px;
     border-radius: 10px;
     background-color: var(--equal-color);
     border-color: var(--equal-color);
