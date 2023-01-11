@@ -25,21 +25,23 @@ html{
     background-color: #000;
     border-radius: 20px;
     width: 250px;
-    height: 500px;
+    height: 485px;
     margin: 0 auto;
 }
 
 .display-section{
     display: block;
     margin: 20px auto 35px auto;
-    background-color: var(--fx-display-color);
+    background-color: #fff;
     border-radius: 0px 0px 10px 10px;
+    border-top: #000;
+    border: 10px solid ;
     height: 80px;
     width: 200px;
     font-size: 1.4rem;
     font-weight: bolder;
     text-align: right;
-    box-shadow: inset 0px 0px 10px 10px var(--fx-display-shadow-color);
+    box-shadow: inset 0px 0px 10px 10px rgb(192, 192, 192);
 }
 
 .button-group{
